@@ -1,3 +1,8 @@
+/* Author: Lea Middleton
+ * 
+ * Program take an Immutablist class and implements
+ * a Threadsafe Mutable list data stucture
+ */
 package ajeffrey.teaching.util.list;
 import ajeffrey.teaching.Main;
 import java.util.concurrent.atomic.AtomicReference;
